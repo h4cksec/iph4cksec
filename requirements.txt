@@ -1,0 +1,6 @@
+requests>=2.32
+dnspython>=2.6
+mmh3>=4.1
+beautifulsoup4>=4.12
+cryptography>=42.0
+urllib3>=2.2
